@@ -16,14 +16,14 @@ CAMERA_CONFIG = {
         "height": 480
     },
     "wrist": {
-        "type": "realsense",  # 从 luxonis 改成 realsense
+        "type": "realsense",  
         "serial_number": "241122306284",
         "fps": 30,
         "width": 640,
         "height": 480
     },
     # "ext2": {
-    #     "type": "realsense",  # 从 luxonis 改成 realsense
+    #     "type": "realsense",  
     #     "serial_number": "241122302482",
     #     "fps": 30,
     #     "width": 640,
