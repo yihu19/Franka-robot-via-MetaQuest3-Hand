@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgeofik.a CMakeFiles/geofik.dir/src/geofik.cpp.o
+/usr/bin/ranlib libgeofik.a

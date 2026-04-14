@@ -1,0 +1,2 @@
+/usr/bin/ar qc libweighted_ik.a CMakeFiles/weighted_ik.dir/src/weighted_ik.cpp.o
+/usr/bin/ranlib libweighted_ik.a

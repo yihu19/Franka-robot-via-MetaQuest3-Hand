@@ -1,0 +1,5 @@
+[console_scripts]
+spacemouse_to_robot_converter = franka_vr_teleop.spacemouse_to_robot_converter:main
+vr_to_robot_converter = franka_vr_teleop.vr_to_robot_converter:main
+vr_to_robot_converter_recover = franka_vr_teleop.vr_to_robot_converter_recover:main
+
