@@ -2,7 +2,7 @@
 
 The code is for franka robot teleoperation via Meta Quest3. The dataset collection is controlled via keyboard.
 
-Please refer to https://github.com/wengmister/franka-vr-teleop and https://github.com/RollingOat/franka_research_teleoperation_with_meta_quest_vr/tree/master for teleoperation with hand tracking.
+Please refer to https://github.com/wengmister/franka-vr-teleop and https://github.com/RollingOat/franka_research_teleoperation_with_meta_quest_vr for teleoperation with hand tracking.
 
 
 # Setup Instructions
